@@ -1,6 +1,6 @@
 /* 1.1: Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 - Main goal: find a character that is used more than once
-*/
+*/ 
 
 const isUnique = (string) => {
   for (let i = 0; i <string.length; i++) {
